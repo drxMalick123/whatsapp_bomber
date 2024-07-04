@@ -12,5 +12,5 @@ this tool send whatsapp spam msg unlimited time .
 
 4:    cd whatsapp_bomber
 
-5:    python whatsapp_msg_send.py
+5:    python wpBomber.py
 
